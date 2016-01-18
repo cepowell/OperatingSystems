@@ -1,5 +1,4 @@
 # Cait Powell
-# HOMEWORK 6
 
 .data
 enternum: .asciiz "Please enter the number of the fibonacci term you would like to calculate: "
